@@ -7,7 +7,7 @@
 - Expandiendo y mejorando mis conocimientos sobre otras tecnologías, actualmente React y Docker.
 - Me gustan los gatos y el café.
 
-## Lenguajes y herramientas
+## Tech Stack
 ![Static Badge](https://img.shields.io/badge/PHP-%23787CB5?style=for-the-badge&logo=php&labelColor=%23222222)
 ![Static Badge](https://img.shields.io/badge/Laravel-%23ff2d20?style=for-the-badge&logo=laravel&labelColor=%23222222)
 ![Static Badge](https://img.shields.io/badge/java-%23f89820?style=for-the-badge&logo=openjdk&labelColor=%23222222)
@@ -25,3 +25,7 @@
 ![Static Badge](https://img.shields.io/badge/sass-%23c69?style=for-the-badge&logo=sass&labelColor=%23222222)
 ![Static Badge](https://img.shields.io/badge/VSCode-%230078d7?style=for-the-badge&labelColor=%23222222)
 
+## 💻 Portfolio
+Esta es una recopilación de ejercicios y proyectos realizados durante el ciclo superior de DAW, que sirve para reflejar parte de los conocimientos adquiridos en este tiempo.
+
+[![ilustracion-interactiva](https://github-readme-stats.vercel.app/api/pin/?username=amescal&repo=ilustracion-interactiva&theme=dark)](https://github.com/amescal/ilustracion-interactiva)
