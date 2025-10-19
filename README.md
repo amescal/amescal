@@ -25,7 +25,8 @@
 ![Static Badge](https://img.shields.io/badge/sass-%23c69?style=for-the-badge&logo=sass&labelColor=%23222222)
 ![Static Badge](https://img.shields.io/badge/VSCode-%230078d7?style=for-the-badge&labelColor=%23222222)
 
-## 💻 Portfolio
+## 💻 Portfolio (WIP)
 Esta es una recopilación de ejercicios y proyectos realizados durante el ciclo superior de DAW, que sirve para reflejar parte de los conocimientos adquiridos en este tiempo.
 
 [![ilustracion-interactiva](https://github-readme-stats.vercel.app/api/pin/?username=amescal&repo=ilustracion-interactiva&theme=dark)](https://github.com/amescal/ilustracion-interactiva)
+[![gestion-mascotas-API](https://github-readme-stats.vercel.app/api/pin/?username=amescal&repo=gestion-mascotas-API&theme=dark)](https://github.com/amescal/gestion-mascotas-API)
