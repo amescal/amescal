@@ -30,3 +30,4 @@ Esta es una recopilación de ejercicios y proyectos realizados durante el ciclo 
 
 [![ilustracion-interactiva](https://github-readme-stats.vercel.app/api/pin/?username=amescal&repo=ilustracion-interactiva&theme=dark)](https://github.com/amescal/ilustracion-interactiva)
 [![gestion-mascotas-API](https://github-readme-stats.vercel.app/api/pin/?username=amescal&repo=gestion-mascotas-API&theme=dark)](https://github.com/amescal/gestion-mascotas-API)
+[![ciudad-clima-ubicacion](https://github-readme-stats.vercel.app/api/pin/?username=amescal&repo=ciudad-clima-ubicacion&theme=dark)](https://github.com/amescal/ciudad-clima-ubicacion)
