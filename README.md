@@ -28,9 +28,10 @@
 ## 💻 Portfolio (WIP)
 Esta es una recopilación de ejercicios y proyectos realizados durante el ciclo superior de DAW, que sirve para reflejar parte de los conocimientos adquiridos en este tiempo.
 
-[![gestion-mascotas-API](https://github-readme-stats.vercel.app/api/pin/?username=amescal&repo=gestion-mascotas-API&theme=dark)](https://github.com/amescal/gestion-mascotas-API)
-[![ilustracion-interactiva](https://github-readme-stats.vercel.app/api/pin/?username=amescal&repo=ilustracion-interactiva&theme=dark)](https://github.com/amescal/ilustracion-interactiva)
-[![juego-memoria](https://github-readme-stats.vercel.app/api/pin/?username=amescal&repo=juego-memoria&theme=dark)](https://github.com/amescal/juego-memoria)
-[![ciudad-clima-ubicacion](https://github-readme-stats.vercel.app/api/pin/?username=amescal&repo=ciudad-clima-ubicacion&theme=dark)](https://github.com/amescal/ciudad-clima-ubicacion)
-[![practicando-plsql](https://github-readme-stats.vercel.app/api/pin/?username=amescal&repo=practicando-plsql&theme=dark)](https://github.com/amescal/practicando-plsql)
+[![gestion-mascotas-API](https://github-readme-stats-fast.vercel.app/api/pin/?username=amescal&repo=gestion-mascotas-API&theme=dark)](https://github.com/amescal/gestion-mascotas-API)
+[![ilustracion-interactiva](https://github-readme-stats-fast.vercel.app/api/pin/?username=amescal&repo=ilustracion-interactiva&theme=dark)](https://github.com/amescal/ilustracion-interactiva)
+[![juego-memoria](https://github-readme-stats-fast.vercel.app/api/pin/?username=amescal&repo=juego-memoria&theme=dark)](https://github.com/amescal/juego-memoria)
+[![ciudad-clima-ubicacion](https://github-readme-stats-fast.vercel.app/api/pin/?username=amescal&repo=ciudad-clima-ubicacion&theme=dark)](https://github.com/amescal/ciudad-clima-ubicacion)
+[![practicando-plsql](https://github-readme-stats-fast.vercel.app/api/pin/?username=amescal&repo=practicando-plsql&theme=dark)](https://github.com/amescal/practicando-plsql)
+
 
